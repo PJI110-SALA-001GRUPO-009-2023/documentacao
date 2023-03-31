@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T02:40:49.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="_BqCVMQY2TEEQkYvx0Tc" version="21.1.2" type="device">
+<mxfile host="app.diagrams.net" modified="2023-03-31T02:46:53.153Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="X2XNbKrkMN5N7z56bLZA" version="21.1.2" type="device">
   <diagram name="Page-1" id="xCkjlxHcud06IziBQde7">
     <mxGraphModel dx="1311" dy="1261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="583" math="0" shadow="0">
       <root>
@@ -31,8 +31,8 @@
         <mxCell id="nq7M4v11IYsO-Z61pEUY-4" value="Moderador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="796" y="160" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nq7M4v11IYsO-Z61pEUY-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Criação de Leitura do Mês&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="440" y="-60" width="140" height="30" as="geometry" />
+        <mxCell id="nq7M4v11IYsO-Z61pEUY-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Criação de Enquete&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="430" y="-50" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FxO7BSVWqYl7jnOC90Lk-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nq7M4v11IYsO-Z61pEUY-12" target="FxO7BSVWqYl7jnOC90Lk-39">
           <mxGeometry relative="1" as="geometry" />
