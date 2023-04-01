@@ -1,0 +1,108 @@
+<mxfile host="app.diagrams.net" modified="2023-04-01T02:17:38.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ZzA126y94--oxCriEhIH" version="21.1.2" type="device">
+  <diagram name="Page-1" id="go6xF1uQKxsD1076WhxQ">
+    <mxGraphModel dx="2025" dy="2216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eopChZVD0E6UrQuCHiLc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="eopChZVD0E6UrQuCHiLc-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="195" />
+              <mxPoint x="810" y="190" />
+            </Array>
+            <mxPoint x="811" y="195" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eopChZVD0E6UrQuCHiLc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="eopChZVD0E6UrQuCHiLc-4" target="eopChZVD0E6UrQuCHiLc-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="190" />
+              <mxPoint x="700" y="327" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eopChZVD0E6UrQuCHiLc-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="eopChZVD0E6UrQuCHiLc-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="796" y="190" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="796" y="190" />
+              <mxPoint x="700" y="190" />
+              <mxPoint x="700" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eopChZVD0E6UrQuCHiLc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eopChZVD0E6UrQuCHiLc-4" target="eopChZVD0E6UrQuCHiLc-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="190" />
+              <mxPoint x="700" y="610" />
+              <mxPoint x="600" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eopChZVD0E6UrQuCHiLc-4" value="Moderador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="796" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eopChZVD0E6UrQuCHiLc-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Criação da Leitura do Mês&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="460" y="-60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eopChZVD0E6UrQuCHiLc-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eopChZVD0E6UrQuCHiLc-7" target="eopChZVD0E6UrQuCHiLc-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="340" />
+              <mxPoint x="320" y="440" />
+              <mxPoint x="370" y="440" />
+              <mxPoint x="370" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eopChZVD0E6UrQuCHiLc-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eopChZVD0E6UrQuCHiLc-7" target="eopChZVD0E6UrQuCHiLc-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="340" />
+              <mxPoint x="320" y="440" />
+              <mxPoint x="370" y="440" />
+              <mxPoint x="370" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eopChZVD0E6UrQuCHiLc-7" value="Leitor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eopChZVD0E6UrQuCHiLc-8" value="Criação da Leitura do Mês" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="155" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eopChZVD0E6UrQuCHiLc-9" value="Adicionar informações sobre o Livro" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="292" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eopChZVD0E6UrQuCHiLc-10" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eopChZVD0E6UrQuCHiLc-8" target="eopChZVD0E6UrQuCHiLc-9" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="500" y="240" as="sourcePoint" />
+            <mxPoint x="660" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eopChZVD0E6UrQuCHiLc-19" value="Finalização da Enquete" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="60" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eopChZVD0E6UrQuCHiLc-20" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.957;exitY=0.771;exitDx=0;exitDy=0;entryX=0.107;entryY=0.171;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="eopChZVD0E6UrQuCHiLc-19" target="eopChZVD0E6UrQuCHiLc-8" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="510" y="230" as="sourcePoint" />
+            <mxPoint x="510" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eopChZVD0E6UrQuCHiLc-24" value="Adicionar data/hora da reunião de Leitura do Mês" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="477.5" y="440" width="105" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eopChZVD0E6UrQuCHiLc-26" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="eopChZVD0E6UrQuCHiLc-24" target="eopChZVD0E6UrQuCHiLc-9" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="530" y="310" as="sourcePoint" />
+            <mxPoint x="690" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eopChZVD0E6UrQuCHiLc-27" value="Adicionar referências, observações, curiosidades, alusões, etc." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="560" width="140" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
